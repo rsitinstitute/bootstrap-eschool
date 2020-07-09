@@ -52,8 +52,9 @@ img {
     cursor: pointer;
 }
 
-#center-pos {
-    align: center;
+.text-center {
+    font-weight: bold;
+    margin-bottom: 40px;
 }
 
 .fill-signin {
@@ -67,11 +68,26 @@ img {
     font-size: 16px;
     line-height: 30px;
     line-height: 125%;
+    padding-top: 70px;
+    
+    
 }
 
 .footer p {
-    color: #FFFFFF;
+    color: #eeeeee;
     font-size: 13px;
+}
+
+.footer .copyright p {
+    margin-top: 20px;
+    padding: 20px 15px;
+    font-weight: normal;
+    font-style: normal;
+    color: #cdcdcd;
+    font-size: 16px;
+    line-height: 30px;
+
+
 }
 
 .card { 
