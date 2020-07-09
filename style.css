@@ -1,0 +1,86 @@
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;    
+}
+
+a {
+    text-decoration: none;
+}
+.nav {
+    background-color: #f0fff0f0;
+}
+
+.slide-image {
+    background-color: #f0fff0f0;
+}
+
+h1 {
+   
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 55px;
+}
+
+.color-it {
+    color: #21b573;
+}
+
+
+img {
+    width: 40%;
+    margin: auto;
+}
+
+.distance {
+    padding: 100px;
+}
+.nav-link {
+
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.buy-now-button {
+    
+    background-color: #21b573;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+#center-pos {
+    align: center;
+}
+
+.fill-signin {
+    background-color: #21b573;
+    border-radius: 20px;
+    padding: 0 10px;
+}
+
+.footer {
+    background-color: black;
+    font-size: 16px;
+    line-height: 30px;
+    line-height: 125%;
+}
+
+.footer p {
+    color: #FFFFFF;
+    font-size: 13px;
+}
+
+.card { 
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
+
