@@ -16,10 +16,11 @@ a {
 }
 
 h1 {
-   
-    font-style: Bold;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
     font-size: 48px;
-    line-height: 55px;
+    line-height: 70px;
 }
 
 .color-it {
